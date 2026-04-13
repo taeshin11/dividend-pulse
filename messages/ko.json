@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "홈", "stocks": "주식", "sectors": "섹터", "calendar": "캘린더", "calculator": "계산기" },
+  "hero": { "title": "다가오는 배당 날짜", "subtitle": "{count}개 주식의 배당락일, 지급일, 수익률 추적", "thisWeek": "이번 주 배당락일", "thisMonth": "이번 달" },
+  "calendar": { "thisWeek": "이번 주", "thisMonth": "이번 달", "exDate": "배당락일", "payDate": "지급일", "noStocks": "이 기간에 배당 없음", "title": "배당 캘린더" },
+  "ticker": { "yield": "배당 수익률", "exDate": "배당락일", "payDate": "지급일", "streak": "연속 연도", "annualDividend": "연간 배당금", "amount": "배당금액", "frequency": "지급 빈도", "sector": "섹터", "history": "배당 이력", "similar": "유사 배당주" },
+  "sector": { "avgYield": "섹터 평균 수익률", "stocks": "배당 주식", "title": "배당 섹터" },
+  "filter": { "sector": "섹터", "yieldMin": "최소 수익률 %", "yieldMax": "최대 수익률 %", "all": "전체 섹터", "reset": "필터 초기화", "sortBy": "정렬 기준", "yield": "수익률", "exDate": "배당락일", "streak": "연속" },
+  "table": { "ticker": "티커", "name": "회사", "yield": "수익률", "exDate": "배당락일", "payDate": "지급일", "amount": "금액", "streak": "연도", "sector": "섹터" },
+  "calculator": { "title": "배당 소득 계산기", "subtitle": "배당 포트폴리오를 구성하고 연간 소득을 확인하세요", "addStock": "주식 추가", "shares": "주수", "totalIncome": "연간 소득", "monthlyIncome": "월간 소득", "portfolioValue": "포트폴리오 가치", "yieldOnCost": "매입가 대비 수익률", "reset": "초기화", "calculate": "계산" },
+  "aristocrats": { "title": "배당 귀족주", "subtitle": "25년 이상 연속 배당 성장 기업", "years": "년" },
+  "footer": { "visitorsToday": "오늘 방문자", "visitorsTotal": "총 방문자", "rights": "모든 권리 보유.", "disclaimer": "투자 데이터는 정보 제공 목적으로만 사용됩니다. 금융 조언이 아닙니다." },
+  "common": { "loading": "로딩 중...", "error": "오류가 발생했습니다", "noData": "데이터 없음", "viewAll": "전체 보기", "learnMore": "더 알아보기", "backToTop": "맨 위로" }
+}

@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "ホーム", "stocks": "株式", "sectors": "セクター", "calendar": "カレンダー", "calculator": "計算機" },
+  "hero": { "title": "配当予定日", "subtitle": "{count}銘柄の権利落ち日、支払日、利回りを追跡", "thisWeek": "今週の権利落ち日", "thisMonth": "今月" },
+  "calendar": { "thisWeek": "今週", "thisMonth": "今月", "exDate": "権利落ち日", "payDate": "支払日", "noStocks": "この期間に配当なし", "title": "配当カレンダー" },
+  "ticker": { "yield": "配当利回り", "exDate": "権利落ち日", "payDate": "支払日", "streak": "連続年数", "annualDividend": "年間配当金", "amount": "配当額", "frequency": "支払頻度", "sector": "セクター", "history": "配当履歴", "similar": "類似配当株" },
+  "sector": { "avgYield": "セクター平均利回り", "stocks": "配当株", "title": "配当セクター" },
+  "filter": { "sector": "セクター", "yieldMin": "最小利回り%", "yieldMax": "最大利回り%", "all": "全セクター", "reset": "フィルターリセット", "sortBy": "並び替え", "yield": "利回り", "exDate": "権利落ち日", "streak": "連続" },
+  "table": { "ticker": "ティッカー", "name": "企業名", "yield": "利回り", "exDate": "権利落ち日", "payDate": "支払日", "amount": "金額", "streak": "年数", "sector": "セクター" },
+  "calculator": { "title": "配当収入計算機", "subtitle": "配当ポートフォリオを構築して年間収入を確認", "addStock": "株式を追加", "shares": "株数", "totalIncome": "年間収入", "monthlyIncome": "月間収入", "portfolioValue": "ポートフォリオ価値", "yieldOnCost": "取得原価利回り", "reset": "リセット", "calculate": "計算" },
+  "aristocrats": { "title": "配当貴族", "subtitle": "25年以上連続配当成長企業", "years": "年" },
+  "footer": { "visitorsToday": "本日の訪問者", "visitorsTotal": "累計訪問者", "rights": "全著作権所有。", "disclaimer": "投資データは情報提供のみを目的としています。金融アドバイスではありません。" },
+  "common": { "loading": "読み込み中...", "error": "エラーが発生しました", "noData": "データなし", "viewAll": "全て見る", "learnMore": "詳細を見る", "backToTop": "トップへ戻る" }
+}

@@ -1,0 +1,13 @@
+[
+  { "id": "technology", "name": "Technology", "slug": "technology", "avgYield": 2.15, "stockCount": 5, "description": "Software, hardware, and telecommunications companies" },
+  { "id": "financials", "name": "Financials", "slug": "financials", "avgYield": 2.34, "stockCount": 3, "description": "Banks, insurance, and financial services companies" },
+  { "id": "utilities", "name": "Utilities", "slug": "utilities", "avgYield": 4.01, "stockCount": 5, "description": "Electric, gas, and water utility companies" },
+  { "id": "healthcare", "name": "Healthcare", "slug": "healthcare", "avgYield": 4.00, "stockCount": 5, "description": "Pharmaceuticals, biotech, and medical device companies" },
+  { "id": "energy", "name": "Energy", "slug": "energy", "avgYield": 3.79, "stockCount": 2, "description": "Oil, gas, and renewable energy companies" },
+  { "id": "consumer-staples", "name": "Consumer Staples", "slug": "consumer-staples", "avgYield": 3.50, "stockCount": 7, "description": "Food, beverages, household products companies" },
+  { "id": "real-estate", "name": "Real Estate", "slug": "real-estate", "avgYield": 4.33, "stockCount": 3, "description": "REITs and real estate investment companies" },
+  { "id": "industrials", "name": "Industrials", "slug": "industrials", "avgYield": 2.74, "stockCount": 7, "description": "Manufacturing, transportation, and industrial services" },
+  { "id": "etf", "name": "ETFs", "slug": "etf", "avgYield": 4.12, "stockCount": 10, "description": "Dividend-focused exchange-traded funds" },
+  { "id": "materials", "name": "Materials", "slug": "materials", "avgYield": 2.45, "stockCount": 0, "description": "Chemicals, mining, and materials companies" },
+  { "id": "communication", "name": "Communication Services", "slug": "communication", "avgYield": 3.12, "stockCount": 0, "description": "Media, entertainment, and telecom companies" }
+]

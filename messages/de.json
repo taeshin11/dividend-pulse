@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "Startseite", "stocks": "Aktien", "sectors": "Sektoren", "calendar": "Kalender", "calculator": "Rechner" },
+  "hero": { "title": "Bevorstehende Dividendentermine", "subtitle": "Verfolge Ex-Daten, Zahlungsdaten und Renditen für {count} Aktien", "thisWeek": "Ex-Daten dieser Woche", "thisMonth": "Diesen Monat" },
+  "calendar": { "thisWeek": "Diese Woche", "thisMonth": "Diesen Monat", "exDate": "Ex-Datum", "payDate": "Zahlungsdatum", "noStocks": "Keine Dividenden in diesem Zeitraum", "title": "Dividendenkalender" },
+  "ticker": { "yield": "Dividendenrendite", "exDate": "Ex-Dividende-Datum", "payDate": "Zahlungsdatum", "streak": "Aufeinanderfolgende Jahre", "annualDividend": "Jahresdividende", "amount": "Dividendenbetrag", "frequency": "Zahlungsfrequenz", "sector": "Sektor", "history": "Dividendenhistorie", "similar": "Ähnliche Dividendenaktien" },
+  "sector": { "avgYield": "Sektor-Durchschnittsrendite", "stocks": "Dividendenaktien", "title": "Dividendensektoren" },
+  "filter": { "sector": "Sektor", "yieldMin": "Min. Rendite %", "yieldMax": "Max. Rendite %", "all": "Alle Sektoren", "reset": "Filter zurücksetzen", "sortBy": "Sortieren nach", "yield": "Rendite", "exDate": "Ex-Datum", "streak": "Serie" },
+  "table": { "ticker": "Symbol", "name": "Unternehmen", "yield": "Rendite", "exDate": "Ex-Datum", "payDate": "Zahlungsdatum", "amount": "Betrag", "streak": "Jahre", "sector": "Sektor" },
+  "calculator": { "title": "Dividendenertragsrechner", "subtitle": "Baue dein Dividendenportfolio auf und sieh dein Jahreseinkommen", "addStock": "Aktie hinzufügen", "shares": "Aktien", "totalIncome": "Jahreseinkommen", "monthlyIncome": "Monatseinkommen", "portfolioValue": "Portfoliowert", "yieldOnCost": "Rendite auf Kosten", "reset": "Zurücksetzen", "calculate": "Berechnen" },
+  "aristocrats": { "title": "Dividendenaristokraten", "subtitle": "Unternehmen mit 25+ aufeinanderfolgenden Jahren Dividendenwachstum", "years": "Jahre" },
+  "footer": { "visitorsToday": "Besucher heute", "visitorsTotal": "Gesamtbesucher", "rights": "Alle Rechte vorbehalten.", "disclaimer": "Investitionsdaten dienen nur zu Informationszwecken. Keine Finanzberatung." },
+  "common": { "loading": "Laden...", "error": "Etwas ist schiefgelaufen", "noData": "Keine Daten verfügbar", "viewAll": "Alle anzeigen", "learnMore": "Mehr erfahren", "backToTop": "Nach oben" }
+}

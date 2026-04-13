@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Home",
+    "stocks": "Stocks",
+    "sectors": "Sectors",
+    "calendar": "Calendar",
+    "calculator": "Calculator"
+  },
+  "hero": {
+    "title": "Upcoming Dividend Dates",
+    "subtitle": "Track ex-dates, pay-dates, and yields for {count} stocks",
+    "thisWeek": "This Week's Ex-Dates",
+    "thisMonth": "This Month"
+  },
+  "calendar": {
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "exDate": "Ex-Date",
+    "payDate": "Pay Date",
+    "noStocks": "No dividends this period",
+    "title": "Dividend Calendar"
+  },
+  "ticker": {
+    "yield": "Dividend Yield",
+    "exDate": "Ex-Dividend Date",
+    "payDate": "Pay Date",
+    "streak": "Consecutive Years",
+    "annualDividend": "Annual Dividend",
+    "amount": "Dividend Amount",
+    "frequency": "Payment Frequency",
+    "sector": "Sector",
+    "history": "Dividend History",
+    "similar": "Similar Dividend Stocks"
+  },
+  "sector": {
+    "avgYield": "Sector Average Yield",
+    "stocks": "Dividend Stocks",
+    "title": "Dividend Sectors"
+  },
+  "filter": {
+    "sector": "Sector",
+    "yieldMin": "Min Yield %",
+    "yieldMax": "Max Yield %",
+    "all": "All Sectors",
+    "reset": "Reset Filters",
+    "sortBy": "Sort By",
+    "yield": "Yield",
+    "exDate": "Ex-Date",
+    "streak": "Streak"
+  },
+  "table": {
+    "ticker": "Ticker",
+    "name": "Company",
+    "yield": "Yield",
+    "exDate": "Ex-Date",
+    "payDate": "Pay Date",
+    "amount": "Amount",
+    "streak": "Years",
+    "sector": "Sector"
+  },
+  "calculator": {
+    "title": "Dividend Income Calculator",
+    "subtitle": "Build your dividend portfolio and see your annual income",
+    "addStock": "Add Stock",
+    "shares": "Shares",
+    "totalIncome": "Annual Income",
+    "monthlyIncome": "Monthly Income",
+    "portfolioValue": "Portfolio Value",
+    "yieldOnCost": "Yield on Cost",
+    "reset": "Reset",
+    "calculate": "Calculate"
+  },
+  "aristocrats": {
+    "title": "Dividend Aristocrats",
+    "subtitle": "Companies with 25+ consecutive years of dividend growth",
+    "years": "years"
+  },
+  "footer": {
+    "visitorsToday": "Visitors today",
+    "visitorsTotal": "Total visitors",
+    "rights": "All rights reserved.",
+    "disclaimer": "Investment data is for informational purposes only. Not financial advice."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "noData": "No data available",
+    "viewAll": "View All",
+    "learnMore": "Learn More",
+    "backToTop": "Back to Top"
+  }
+}

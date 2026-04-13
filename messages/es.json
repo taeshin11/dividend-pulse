@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "Inicio", "stocks": "Acciones", "sectors": "Sectores", "calendar": "Calendario", "calculator": "Calculadora" },
+  "hero": { "title": "Próximas Fechas de Dividendos", "subtitle": "Rastrea ex-fechas, fechas de pago y rendimientos de {count} acciones", "thisWeek": "Ex-Fechas de Esta Semana", "thisMonth": "Este Mes" },
+  "calendar": { "thisWeek": "Esta Semana", "thisMonth": "Este Mes", "exDate": "Ex-Fecha", "payDate": "Fecha de Pago", "noStocks": "Sin dividendos en este período", "title": "Calendario de Dividendos" },
+  "ticker": { "yield": "Rendimiento de Dividendo", "exDate": "Fecha Ex-Dividendo", "payDate": "Fecha de Pago", "streak": "Años Consecutivos", "annualDividend": "Dividendo Anual", "amount": "Monto del Dividendo", "frequency": "Frecuencia de Pago", "sector": "Sector", "history": "Historial de Dividendos", "similar": "Acciones de Dividendos Similares" },
+  "sector": { "avgYield": "Rendimiento Promedio del Sector", "stocks": "Acciones de Dividendos", "title": "Sectores de Dividendos" },
+  "filter": { "sector": "Sector", "yieldMin": "Rendimiento Mínimo %", "yieldMax": "Rendimiento Máximo %", "all": "Todos los Sectores", "reset": "Restablecer Filtros", "sortBy": "Ordenar Por", "yield": "Rendimiento", "exDate": "Ex-Fecha", "streak": "Racha" },
+  "table": { "ticker": "Símbolo", "name": "Empresa", "yield": "Rendimiento", "exDate": "Ex-Fecha", "payDate": "Fecha de Pago", "amount": "Monto", "streak": "Años", "sector": "Sector" },
+  "calculator": { "title": "Calculadora de Ingresos por Dividendos", "subtitle": "Construye tu portafolio de dividendos y ve tus ingresos anuales", "addStock": "Agregar Acción", "shares": "Acciones", "totalIncome": "Ingreso Anual", "monthlyIncome": "Ingreso Mensual", "portfolioValue": "Valor del Portafolio", "yieldOnCost": "Rendimiento sobre Costo", "reset": "Restablecer", "calculate": "Calcular" },
+  "aristocrats": { "title": "Aristócratas del Dividendo", "subtitle": "Empresas con 25+ años consecutivos de crecimiento de dividendos", "years": "años" },
+  "footer": { "visitorsToday": "Visitantes hoy", "visitorsTotal": "Visitantes totales", "rights": "Todos los derechos reservados.", "disclaimer": "Los datos de inversión son solo para fines informativos. No es asesoramiento financiero." },
+  "common": { "loading": "Cargando...", "error": "Algo salió mal", "noData": "Sin datos disponibles", "viewAll": "Ver Todo", "learnMore": "Saber Más", "backToTop": "Volver Arriba" }
+}

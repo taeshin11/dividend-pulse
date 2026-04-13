@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "Início", "stocks": "Ações", "sectors": "Setores", "calendar": "Calendário", "calculator": "Calculadora" },
+  "hero": { "title": "Próximas Datas de Dividendos", "subtitle": "Rastreie ex-datas, datas de pagamento e rendimentos de {count} ações", "thisWeek": "Ex-Datas desta Semana", "thisMonth": "Este Mês" },
+  "calendar": { "thisWeek": "Esta Semana", "thisMonth": "Este Mês", "exDate": "Ex-Data", "payDate": "Data de Pagamento", "noStocks": "Sem dividendos neste período", "title": "Calendário de Dividendos" },
+  "ticker": { "yield": "Rendimento de Dividendo", "exDate": "Data Ex-Dividendo", "payDate": "Data de Pagamento", "streak": "Anos Consecutivos", "annualDividend": "Dividendo Anual", "amount": "Valor do Dividendo", "frequency": "Frequência de Pagamento", "sector": "Setor", "history": "Histórico de Dividendos", "similar": "Ações de Dividendos Similares" },
+  "sector": { "avgYield": "Rendimento Médio do Setor", "stocks": "Ações de Dividendos", "title": "Setores de Dividendos" },
+  "filter": { "sector": "Setor", "yieldMin": "Rendimento Mín %", "yieldMax": "Rendimento Máx %", "all": "Todos os Setores", "reset": "Redefinir Filtros", "sortBy": "Ordenar Por", "yield": "Rendimento", "exDate": "Ex-Data", "streak": "Sequência" },
+  "table": { "ticker": "Código", "name": "Empresa", "yield": "Rendimento", "exDate": "Ex-Data", "payDate": "Data de Pagamento", "amount": "Valor", "streak": "Anos", "sector": "Setor" },
+  "calculator": { "title": "Calculadora de Renda de Dividendos", "subtitle": "Construa seu portfólio de dividendos e veja sua renda anual", "addStock": "Adicionar Ação", "shares": "Ações", "totalIncome": "Renda Anual", "monthlyIncome": "Renda Mensal", "portfolioValue": "Valor do Portfólio", "yieldOnCost": "Rendimento sobre Custo", "reset": "Redefinir", "calculate": "Calcular" },
+  "aristocrats": { "title": "Aristocratas do Dividendo", "subtitle": "Empresas com 25+ anos consecutivos de crescimento de dividendos", "years": "anos" },
+  "footer": { "visitorsToday": "Visitantes hoje", "visitorsTotal": "Visitantes totais", "rights": "Todos os direitos reservados.", "disclaimer": "Dados de investimento são apenas para fins informativos. Não é aconselhamento financeiro." },
+  "common": { "loading": "Carregando...", "error": "Algo deu errado", "noData": "Sem dados disponíveis", "viewAll": "Ver Tudo", "learnMore": "Saiba Mais", "backToTop": "Voltar ao Topo" }
+}

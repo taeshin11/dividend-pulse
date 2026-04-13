@@ -1,0 +1,13 @@
+{
+  "nav": { "home": "首页", "stocks": "股票", "sectors": "行业", "calendar": "日历", "calculator": "计算器" },
+  "hero": { "title": "即将到来的股息日期", "subtitle": "追踪{count}只股票的除权日、派息日和收益率", "thisWeek": "本周除权日", "thisMonth": "本月" },
+  "calendar": { "thisWeek": "本周", "thisMonth": "本月", "exDate": "除权日", "payDate": "派息日", "noStocks": "本期无股息", "title": "股息日历" },
+  "ticker": { "yield": "股息收益率", "exDate": "除权日", "payDate": "派息日", "streak": "连续年数", "annualDividend": "年度股息", "amount": "股息金额", "frequency": "支付频率", "sector": "行业", "history": "股息历史", "similar": "类似股息股票" },
+  "sector": { "avgYield": "行业平均收益率", "stocks": "股息股票", "title": "股息行业" },
+  "filter": { "sector": "行业", "yieldMin": "最低收益率%", "yieldMax": "最高收益率%", "all": "所有行业", "reset": "重置筛选", "sortBy": "排序方式", "yield": "收益率", "exDate": "除权日", "streak": "连续" },
+  "table": { "ticker": "代码", "name": "公司", "yield": "收益率", "exDate": "除权日", "payDate": "派息日", "amount": "金额", "streak": "年数", "sector": "行业" },
+  "calculator": { "title": "股息收入计算器", "subtitle": "构建您的股息投资组合并查看年收入", "addStock": "添加股票", "shares": "股数", "totalIncome": "年收入", "monthlyIncome": "月收入", "portfolioValue": "投资组合价值", "yieldOnCost": "成本收益率", "reset": "重置", "calculate": "计算" },
+  "aristocrats": { "title": "股息贵族", "subtitle": "连续25年以上增加股息的公司", "years": "年" },
+  "footer": { "visitorsToday": "今日访客", "visitorsTotal": "总访客", "rights": "版权所有。", "disclaimer": "投资数据仅供参考，不构成财务建议。" },
+  "common": { "loading": "加载中...", "error": "出现错误", "noData": "无数据", "viewAll": "查看全部", "learnMore": "了解更多", "backToTop": "返回顶部" }
+}

@@ -8,7 +8,8 @@
     "amount": 0.25,
     "frequency": "quarterly",
     "yield": 0.52,
-    "consecutiveYears": 12
+    "consecutiveYears": 12,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "MSFT",
@@ -19,7 +20,8 @@
     "amount": 0.75,
     "frequency": "quarterly",
     "yield": 0.72,
-    "consecutiveYears": 22
+    "consecutiveYears": 22,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "JNJ",
@@ -30,7 +32,8 @@
     "amount": 1.24,
     "frequency": "quarterly",
     "yield": 3.28,
-    "consecutiveYears": 62
+    "consecutiveYears": 62,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "KO",
@@ -41,40 +44,44 @@
     "amount": 0.485,
     "frequency": "quarterly",
     "yield": 3.15,
-    "consecutiveYears": 62
+    "consecutiveYears": 62,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "PG",
     "name": "Procter & Gamble Co.",
     "sector": "consumer-staples",
-    "exDate": "2026-04-17",
-    "payDate": "2026-05-15",
+    "exDate": "2026-07-17",
+    "payDate": "2026-08-14",
     "amount": 1.0065,
     "frequency": "quarterly",
     "yield": 2.42,
-    "consecutiveYears": 68
+    "consecutiveYears": 68,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "VZ",
     "name": "Verizon Communications",
     "sector": "technology",
-    "exDate": "2026-04-09",
-    "payDate": "2026-05-01",
+    "exDate": "2026-07-09",
+    "payDate": "2026-07-31",
     "amount": 0.6775,
     "frequency": "quarterly",
     "yield": 6.52,
-    "consecutiveYears": 18
+    "consecutiveYears": 18,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "T",
     "name": "AT&T Inc.",
     "sector": "technology",
-    "exDate": "2026-04-10",
-    "payDate": "2026-05-01",
+    "exDate": "2026-07-10",
+    "payDate": "2026-07-31",
     "amount": 0.2775,
     "frequency": "quarterly",
     "yield": 5.18,
-    "consecutiveYears": 1
+    "consecutiveYears": 1,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "MO",
@@ -85,7 +92,8 @@
     "amount": 0.98,
     "frequency": "quarterly",
     "yield": 8.62,
-    "consecutiveYears": 54
+    "consecutiveYears": 54,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "XOM",
@@ -96,7 +104,8 @@
     "amount": 0.99,
     "frequency": "quarterly",
     "yield": 3.45,
-    "consecutiveYears": 42
+    "consecutiveYears": 42,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "CVX",
@@ -107,18 +116,20 @@
     "amount": 1.71,
     "frequency": "quarterly",
     "yield": 4.12,
-    "consecutiveYears": 37
+    "consecutiveYears": 37,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "JPM",
     "name": "JPMorgan Chase & Co.",
     "sector": "financials",
-    "exDate": "2026-04-04",
-    "payDate": "2026-04-30",
+    "exDate": "2026-07-04",
+    "payDate": "2026-07-30",
     "amount": 1.4,
     "frequency": "quarterly",
     "yield": 2.11,
-    "consecutiveYears": 14
+    "consecutiveYears": 14,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "BAC",
@@ -129,7 +140,8 @@
     "amount": 0.26,
     "frequency": "quarterly",
     "yield": 2.52,
-    "consecutiveYears": 10
+    "consecutiveYears": 10,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "WFC",
@@ -140,7 +152,8 @@
     "amount": 0.4,
     "frequency": "quarterly",
     "yield": 2.38,
-    "consecutiveYears": 8
+    "consecutiveYears": 8,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "HD",
@@ -151,7 +164,8 @@
     "amount": 2.25,
     "frequency": "quarterly",
     "yield": 2.32,
-    "consecutiveYears": 14
+    "consecutiveYears": 14,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "WMT",
@@ -162,7 +176,8 @@
     "amount": 0.235,
     "frequency": "quarterly",
     "yield": 1.12,
-    "consecutiveYears": 51
+    "consecutiveYears": 51,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "PEP",
@@ -173,7 +188,8 @@
     "amount": 1.355,
     "frequency": "quarterly",
     "yield": 3.42,
-    "consecutiveYears": 52
+    "consecutiveYears": 52,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "MCD",
@@ -184,7 +200,8 @@
     "amount": 1.77,
     "frequency": "quarterly",
     "yield": 2.45,
-    "consecutiveYears": 48
+    "consecutiveYears": 48,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "IBM",
@@ -195,7 +212,8 @@
     "amount": 1.67,
     "frequency": "quarterly",
     "yield": 2.82,
-    "consecutiveYears": 28
+    "consecutiveYears": 28,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "MMM",
@@ -206,7 +224,8 @@
     "amount": 0.7,
     "frequency": "quarterly",
     "yield": 2.15,
-    "consecutiveYears": 65
+    "consecutiveYears": 65,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "CAT",
@@ -217,7 +236,8 @@
     "amount": 1.41,
     "frequency": "quarterly",
     "yield": 1.65,
-    "consecutiveYears": 30
+    "consecutiveYears": 30,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "GE",
@@ -228,7 +248,8 @@
     "amount": 0.28,
     "frequency": "quarterly",
     "yield": 0.72,
-    "consecutiveYears": 4
+    "consecutiveYears": 4,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "HON",
@@ -239,7 +260,8 @@
     "amount": 1.13,
     "frequency": "quarterly",
     "yield": 2.35,
-    "consecutiveYears": 14
+    "consecutiveYears": 14,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "UNP",
@@ -250,7 +272,8 @@
     "amount": 1.34,
     "frequency": "quarterly",
     "yield": 2.28,
-    "consecutiveYears": 18
+    "consecutiveYears": 18,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "UPS",
@@ -261,7 +284,8 @@
     "amount": 1.64,
     "frequency": "quarterly",
     "yield": 5.12,
-    "consecutiveYears": 15
+    "consecutiveYears": 15,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "FDX",
@@ -272,18 +296,20 @@
     "amount": 1.38,
     "frequency": "quarterly",
     "yield": 2.42,
-    "consecutiveYears": 8
+    "consecutiveYears": 8,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "ABBV",
     "name": "AbbVie Inc.",
     "sector": "healthcare",
-    "exDate": "2026-04-14",
-    "payDate": "2026-05-15",
+    "exDate": "2026-07-14",
+    "payDate": "2026-08-14",
     "amount": 1.64,
     "frequency": "quarterly",
     "yield": 3.52,
-    "consecutiveYears": 12
+    "consecutiveYears": 12,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "MRK",
@@ -294,7 +320,8 @@
     "amount": 0.77,
     "frequency": "quarterly",
     "yield": 3.62,
-    "consecutiveYears": 14
+    "consecutiveYears": 14,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "PFE",
@@ -305,29 +332,32 @@
     "amount": 0.42,
     "frequency": "quarterly",
     "yield": 6.75,
-    "consecutiveYears": 15
+    "consecutiveYears": 15,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "ABT",
     "name": "Abbott Laboratories",
     "sector": "healthcare",
-    "exDate": "2026-04-15",
-    "payDate": "2026-05-15",
+    "exDate": "2026-07-15",
+    "payDate": "2026-08-14",
     "amount": 0.59,
     "frequency": "quarterly",
     "yield": 1.82,
-    "consecutiveYears": 52
+    "consecutiveYears": 52,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "BMY",
     "name": "Bristol-Myers Squibb",
     "sector": "healthcare",
-    "exDate": "2026-04-04",
-    "payDate": "2026-05-01",
+    "exDate": "2026-07-04",
+    "payDate": "2026-07-31",
     "amount": 0.62,
     "frequency": "quarterly",
     "yield": 4.85,
-    "consecutiveYears": 16
+    "consecutiveYears": 16,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "NEE",
@@ -338,7 +368,8 @@
     "amount": 0.5235,
     "frequency": "quarterly",
     "yield": 2.98,
-    "consecutiveYears": 28
+    "consecutiveYears": 28,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "DUK",
@@ -349,7 +380,8 @@
     "amount": 1.045,
     "frequency": "quarterly",
     "yield": 4.12,
-    "consecutiveYears": 18
+    "consecutiveYears": 18,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "SO",
@@ -360,7 +392,8 @@
     "amount": 0.72,
     "frequency": "quarterly",
     "yield": 3.72,
-    "consecutiveYears": 22
+    "consecutiveYears": 22,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "D",
@@ -371,7 +404,8 @@
     "amount": 0.6675,
     "frequency": "quarterly",
     "yield": 4.95,
-    "consecutiveYears": 6
+    "consecutiveYears": 6,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "AEP",
@@ -382,7 +416,8 @@
     "amount": 0.93,
     "frequency": "quarterly",
     "yield": 4.28,
-    "consecutiveYears": 14
+    "consecutiveYears": 14,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "O",
@@ -393,18 +428,20 @@
     "amount": 0.2635,
     "frequency": "monthly",
     "yield": 5.72,
-    "consecutiveYears": 30
+    "consecutiveYears": 30,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "AMT",
     "name": "American Tower Corporation",
     "sector": "real-estate",
-    "exDate": "2026-04-10",
-    "payDate": "2026-04-25",
+    "exDate": "2026-07-10",
+    "payDate": "2026-07-25",
     "amount": 1.62,
     "frequency": "quarterly",
     "yield": 3.15,
-    "consecutiveYears": 14
+    "consecutiveYears": 14,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "VNQ",
@@ -415,7 +452,8 @@
     "amount": 0.82,
     "frequency": "quarterly",
     "yield": 4.12,
-    "consecutiveYears": 18
+    "consecutiveYears": 18,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "SCHD",
@@ -426,7 +464,8 @@
     "amount": 0.72,
     "frequency": "quarterly",
     "yield": 3.52,
-    "consecutiveYears": 13
+    "consecutiveYears": 13,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "VYM",
@@ -437,7 +476,8 @@
     "amount": 0.83,
     "frequency": "quarterly",
     "yield": 2.98,
-    "consecutiveYears": 17
+    "consecutiveYears": 17,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "VIG",
@@ -448,7 +488,8 @@
     "amount": 0.88,
     "frequency": "quarterly",
     "yield": 1.72,
-    "consecutiveYears": 18
+    "consecutiveYears": 18,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "DVY",
@@ -459,7 +500,8 @@
     "amount": 1.35,
     "frequency": "quarterly",
     "yield": 4.82,
-    "consecutiveYears": 21
+    "consecutiveYears": 21,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "JEPI",
@@ -470,7 +512,8 @@
     "amount": 0.38,
     "frequency": "monthly",
     "yield": 7.32,
-    "consecutiveYears": 5
+    "consecutiveYears": 5,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "JEPQ",
@@ -481,7 +524,8 @@
     "amount": 0.43,
     "frequency": "monthly",
     "yield": 9.12,
-    "consecutiveYears": 3
+    "consecutiveYears": 3,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "SPHD",
@@ -492,7 +536,8 @@
     "amount": 0.12,
     "frequency": "monthly",
     "yield": 4.52,
-    "consecutiveYears": 12
+    "consecutiveYears": 12,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "HDV",
@@ -503,7 +548,8 @@
     "amount": 1.12,
     "frequency": "quarterly",
     "yield": 3.82,
-    "consecutiveYears": 14
+    "consecutiveYears": 14,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "DGRO",
@@ -514,7 +560,8 @@
     "amount": 0.38,
     "frequency": "quarterly",
     "yield": 2.32,
-    "consecutiveYears": 11
+    "consecutiveYears": 11,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "SDY",
@@ -525,7 +572,8 @@
     "amount": 0.95,
     "frequency": "quarterly",
     "yield": 2.72,
-    "consecutiveYears": 18
+    "consecutiveYears": 18,
+    "lastUpdated": "2026-04-22"
   },
   {
     "ticker": "NOBL",
@@ -536,6 +584,7 @@
     "amount": 0.45,
     "frequency": "quarterly",
     "yield": 2.18,
-    "consecutiveYears": 12
+    "consecutiveYears": 12,
+    "lastUpdated": "2026-04-22"
   }
 ]
